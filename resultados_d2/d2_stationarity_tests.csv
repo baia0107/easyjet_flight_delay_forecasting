@@ -1,0 +1,5 @@
+Series,n,ADF p-value,ADF says,KPSS p-value,KPSS says
+Original,307,0.00205221850627122,stationary,0.1,stationary
+First difference,306,3.478105762412498e-05,stationary,0.1,stationary
+Seasonal difference (lag 12),295,0.0003407928874705281,stationary,0.1,stationary
+First + seasonal difference,294,5.778676461391866e-10,stationary,0.1,stationary
